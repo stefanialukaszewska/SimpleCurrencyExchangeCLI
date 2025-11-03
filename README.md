@@ -17,14 +17,14 @@ powershell
 mvn exec:java "-Dexec.mainClass=com.currency.Main"  
 
 ### Example output
-==== Currency Exchange CLI | frankfurter.dev ====
-From (provide currency, e.g., "USD"):
-usd
-To (provide currency, e.g., "PLN"):
-pln
-Provide amount:
-100
-Current rate: 3.6946
+==== Currency Exchange CLI | frankfurter.dev ====  
+From (provide currency, e.g., "USD"):  
+usd  
+To (provide currency, e.g., "PLN"):  
+pln  
+Provide amount:  
+100  
+Current rate: 3.6946  
 100,00 USD = 369,46 PLN
 
 ## License
