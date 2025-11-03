@@ -1,4 +1,4 @@
-# CurrencyExchangeCLI
+# SimpleCurrencyExchangeCLI
 
 A simple console-based currency exchange application written in Java.  
 It uses the [Frankfurter API](https://www.frankfurter.dev) to fetch real-time exchange rates and demonstrates basic API communication.
